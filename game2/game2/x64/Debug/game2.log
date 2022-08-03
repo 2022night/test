@@ -1,0 +1,5 @@
+﻿  game.c
+C:\code\game2\game2\game.c(73,26): warning C4020: “saolei”: 实参太多
+C:\code\game2\game2\game.c(110,1): warning C4029: 声明的形参表不同于定义
+C:\code\game2\game2\game.c(136,11): warning C4098: “saolei”:“void”函数返回值
+  game2.vcxproj -> C:\code\game2\x64\Debug\game2.exe
