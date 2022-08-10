@@ -1,0 +1,10 @@
+﻿  game.c
+C:\code\game\game\game.c(96,1): warning C4142: "IsWin": 类型的良性重定义
+C:\code\game\game\game.h(11): message : 参见“IsWin”的声明
+C:\code\game\game\game.c(103,22): warning C4098: “IsWin”:“void”函数返回值
+C:\code\game\game\game.c(110,22): warning C4098: “IsWin”:“void”函数返回值
+C:\code\game\game\game.c(114,21): warning C4098: “IsWin”:“void”函数返回值
+C:\code\game\game\game.c(116,21): warning C4098: “IsWin”:“void”函数返回值
+C:\code\game\game\game.c(119,13): warning C4098: “IsWin”:“void”函数返回值
+C:\code\game\game\game.c(121,12): warning C4098: “IsWin”:“void”函数返回值
+  game.vcxproj -> C:\code\game\x64\Debug\game.exe
