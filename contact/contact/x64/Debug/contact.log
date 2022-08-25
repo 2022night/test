@@ -1,0 +1,5 @@
+﻿  contact.c
+C:\code\contact\contact\contact.c(31,35): warning C4028: 形参 1 与声明不同
+C:\code\contact\contact\contact.c(52,12): warning C4013: “Findmyname”未定义；假设外部返回 int
+C:\code\contact\contact\contact.c(102): warning C4715: “Findmyname”: 不是所有的控件路径都返回值
+  contact.vcxproj -> C:\code\contact\x64\Debug\contact.exe

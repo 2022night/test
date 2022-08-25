@@ -1,0 +1,9 @@
+﻿  contact.c
+  test.c
+C:\code\contact\contact\test.c(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  contact.h
+x64\Release\contact.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+test.obj : error LNK2001: 无法解析的外部符号 showconatact
+test.obj : error LNK2001: 无法解析的外部符号 addcontact
+test.obj : error LNK2001: 无法解析的外部符号 initcontact
+C:\code\contact\x64\Release\contact.exe : fatal error LNK1120: 3 个无法解析的外部命令
